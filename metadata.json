@@ -1,0 +1,6 @@
+{
+  "name": "SafeSphere",
+  "description": "Professional emergency awareness and preparedness platform providing disaster guides, emergency kit planning, safety assessments, community emergency assistance, and user safety profiles.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
